@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VeriTrustX",
+  "description": "Secure QR-based digital identity verification system for NGOs with Digital Wallet and Admin Dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
